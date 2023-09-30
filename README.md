@@ -2,7 +2,7 @@
 
 I'm Rick. I'm a Creative Technologist that tries to dabble in a bit of everything. 
 
-- 🔭 I’m currently working on a couple of React Native apps - (One's launched here(https://streamerbanbingo.com))
+- 🔭 I’m currently working on a couple of React Native apps - (One's launched [here](https://streamerbanbingo.com))
 - 📫 How to reach me: @rickredsix@mastodon.social
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I used to work at the bird site before it got X'd out.
