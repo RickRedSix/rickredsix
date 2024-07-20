@@ -3,12 +3,13 @@
 I'm Rick. I'm a Creative Technology Director that tries to dabble in a bit of everything. 
 
 - 🔭 Currently making tech happen at [@MotherLondon](https://www.motherlondon.com)
+  
 - 💬 Most recent projects (If you wanna chat about them!):
   - [Laifu Saving Waifu](https://laifusavingwaifu.com)
   - [IKEA on Roblox - The Coworker](https://thecoworker.co.uk)
   - [Simp Wine](https://www.simpwine.com)
   - [AntsLive Cams](https://antslivecams.com/)
-- 
+  
 - 📫 How to reach me: @rickredsix@mastodon.social or [rickredsix.bsky.social](https://bsky.app/profile/rickredsix.bsky.social)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I used to work at the bird site before it got X'd out.
