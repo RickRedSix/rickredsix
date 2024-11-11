@@ -15,10 +15,10 @@ I'm Rick. I'm a Creative Technologist that tries to dabble in a bit of everythin
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I used to work at the bird site before it got X'd out.
   
-[![An image of @rickredsix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rickredsix)](https://holopin.io/@rickredsix)
-
 <!--
 **RickRedSix/rickredsix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![An image of @rickredsix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rickredsix)](https://holopin.io/@rickredsix)
 
 Here are some ideas to get you started:
 
