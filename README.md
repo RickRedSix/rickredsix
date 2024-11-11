@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-I'm Rick. I'm a Creative Technology Director that tries to dabble in a bit of everything. 
+I'm Rick. I'm a Creative Technologist that tries to dabble in a bit of everything. 
 
-- 🔭 Currently making tech happen at [@MotherLondon](https://www.motherlondon.com)
+- 🔭 Currently heading up Creative Technology at [@MotherLondon](https://www.motherlondon.com)
   
 - 💬 Most recent projects (If you wanna chat about them!):
+
+  - [Rawdog Simulator](https://www.rawdogsimulator.com)
   - [Laifu Saving Waifu](https://laifusavingwaifu.com)
   - [IKEA on Roblox - The Coworker](https://thecoworker.co.uk)
-  - [Simp Wine](https://www.simpwine.com)
   - [AntsLive Cams](https://antslivecams.com/)
   
-- 📫 How to reach me: @rickredsix@mastodon.social or [rickredsix.bsky.social](https://bsky.app/profile/rickredsix.bsky.social)
+- 📫 How to reach me: [@ricksmith.co.uk on BSky](https://bsky.app/profile/ricksmith.co.uk)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I used to work at the bird site before it got X'd out.
   
